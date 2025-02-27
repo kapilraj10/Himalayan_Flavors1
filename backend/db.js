@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+mongoose.set('strictQuery', false);
 const mongoURI = 'mongodb+srv://kapilraj10:Mount%402057@cluster0.2cftc.mongodb.net/gofood?retryWrites=true&w=majority&appName=Cluster0'
 
 

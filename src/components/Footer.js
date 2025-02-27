@@ -7,7 +7,8 @@ export default function Footer() {
       <div className="col-md-4 d-flex align-items-center">
         <a href="/" className="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
         </a>
-        <span className="text-muted">© 2025 <i>GoFood</i>, Inc</span>
+        <span className="text-muted">© 2025 <i>Himalayan Flavors</i>, Inc | Developed by <a href="https://kapilrajkc.com.np" target="_blank" rel="noopener noreferrer">Kapil Raj KC</a></span>
+
       </div>
   
       <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
